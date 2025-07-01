@@ -64,11 +64,7 @@ Password complexity directly affects a password's resistance to common attacks l
 ![Screenshot 2025-07-01 185153](https://github.com/user-attachments/assets/2700d2fe-9edf-425a-9ffc-71899c805827)
 ![Screenshot 2025-07-01 184848](https://github.com/user-attachments/assets/67391ee0-49f9-49b7-be6d-e605dcdc525d)
 
-
-
 ![Screenshot 1: Example of a Weak Password Score](screenshots/weak_password.png)
-![Screenshot 2: Example of a Strong Password Score](screenshots/strong_password.png)
-
 ## Interview questions from Task 6 with their answers:
 1. What makes a password strong?
 A strong password is typically long, ideally 12-16 characters or more, and incorporates a diverse mix of uppercase letters, lowercase letters, numbers, and symbols. It should be unique and not based on easily guessable personal information or common dictionary words.
