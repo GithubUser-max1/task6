@@ -81,6 +81,9 @@ Password managers help users by securely storing and generating strong, unique p
 Passphrases are a sequence of random words or a short, memorable sentence used as a password. They are often longer than traditional passwords and can be more secure due to their length, while also being easier for users to remember. (No direct citation in the provided text, but it's a standard cybersecurity concept).
 8. What are common mistakes in password creation?
 Common mistakes in password creation include using easily guessable information (like birth dates or names), using short passwords, using common words or simple sequences, and reusing the same password across multiple accounts. These practices significantly weaken password security.
+## platform for practice
+https://tryhackme.com/room/offensivesecurityintro
+https://tryhackme.com/room/defensivesecurityintro
 
 
 ## Learning Outcome
